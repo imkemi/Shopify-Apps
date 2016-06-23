@@ -39,4 +39,4 @@ Giithub shopify Private Api file
 3-Update conf.php with the private app's credentials.
 4-Check out the .php files and see how they work. (e.g., http://path-to-new_prj/get_shop.php)
 
-I HAVE ALREADY INSTALL COMPOSER FOLDER SO O NEED TO INSTALL COMPOSER ON IT.
+I HAVE ALREADY INSTALL COMPOSER FOLDER SO NO NEED TO INSTALL COMPOSER ON IT.
