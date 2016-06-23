@@ -1,5 +1,5 @@
 ====================================================================
-Giithub shopify PUBLIC Api file
+Shopify PUBLIC Api file
 ========================================================================
 1- Install Composer In Your Project (linux)
 
@@ -22,7 +22,7 @@ Giithub shopify PUBLIC Api file
 
 
 ========================================================================
-Giithub shopify Private Api file
+Shopify Private Api file
 ===========================================================================
 1- Install Composer In Your Project
 (i)Run this in your command line:
